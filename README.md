@@ -1,4 +1,5 @@
 ## Hi there 👋
+## Currently a student at Malmö University
 
 <!--
 **PetterCarlsson/PetterCarlsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
